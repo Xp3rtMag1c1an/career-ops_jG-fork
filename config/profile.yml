@@ -1,0 +1,105 @@
+# Career-Ops Profile Configuration
+# Josh Groves — configured 2026-04-06
+
+candidate:
+  full_name: "Josh Groves"
+  email: "jcg23@icloud.com"
+  phone: "303.503.4595"
+  location: "Scottsdale, AZ"
+  linkedin: "linkedin.com/in/josh-groves"
+  portfolio_url: "https://writenode.app"
+  twitter: "https://x.com/jshgrvs"
+
+target_roles:
+  primary:
+    - "Head of Applied AI"
+    - "AI Product Lead"
+    - "Founding Product Marketer"
+    - "Special Projects Lead / Operator"
+  archetypes:
+    - name: "Applied AI Leader"
+      level: "Head/Director"
+      fit: "primary"
+    - name: "Founding Operator"
+      level: "Head/Lead"
+      fit: "primary"
+    - name: "AI Product / GTM"
+      level: "Senior/Lead"
+      fit: "primary"
+    - name: "AI Solutions Architect"
+      level: "Senior"
+      fit: "secondary"
+    - name: "AI Strategy Consultant"
+      level: "Director"
+      fit: "secondary"
+    - name: "Special Projects"
+      level: "Lead"
+      fit: "secondary"
+
+narrative:
+  headline: "Solo founder and systems architect who ships without a traditional pedigree"
+  exit_story: >
+    Built an AI-native Chrome extension solo from zero — no engineering background,
+    no co-founder, no outside capital. Before that, scaled distributed teams across
+    40+ markets, authored playbooks adopted by 400 reps nationally, managed $63M in
+    annual loan volume. Now looking for the right team where that synthesis of
+    operational rigor, AI workflow design, and product intuition compounds.
+  superpowers:
+    - "Walk into ambiguity, find the architecture, ship systems that scale"
+    - "Ideation + Connectedness (rare StrengthsFinder pairing): generates ideas AND sees how everything links"
+    - "Non-engineer who builds production AI — bridges the technical/business gap natively"
+    - "Playbook design — creates systems that run without heroics"
+  proof_points:
+    - name: "writenode"
+      url: "https://writenode.app"
+      hero_metric: "AI Chrome extension built solo from zero, no engineering background"
+    - name: "Pulte Mortgage"
+      hero_metric: "$63M annual loan volume, top 3 of 150 consultants, 94% CSAT"
+    - name: "Avenue Alive Direct"
+      hero_metric: "National sales playbook adopted by 400 reps across 40 markets; #1 national ranking"
+    - name: "Bridge2Rwanda"
+      hero_metric: "Shipped curriculum in Rwanda without a playbook; still in use by local leaders"
+    - name: "Findr AI"
+      hero_metric: "Competitive intelligence directly shaped product roadmap"
+    - name: "YC Application"
+      hero_metric: "YC Spring 2026 application for writenode"
+
+compensation:
+  target_range: "$130K-180K"
+  currency: "USD"
+  minimum: "$120K"
+  location_flexibility: "Remote preferred, open to hybrid"
+  notes: "Open to equity-heavy structures at early-stage companies"
+
+location:
+  country: "United States"
+  city: "Scottsdale, AZ"
+  timezone: "America/Phoenix"
+  visa_status: "No sponsorship needed"
+
+deal_breakers:
+  - "Pure IC roles with no strategic scope"
+  - "No path to ownership or meaningful equity"
+  - "Non-AI, non-tech industries as FTE"
+  - "On-site only (open to hybrid, strongly prefer remote-first)"
+  - "Roles requiring formal CS degree as hard requirement"
+  - "Companies with no genuine AI surface area (AI-washing)"
+
+strengths_finder:
+  - Ideation
+  - Connectedness
+  - Context
+  - Restorative
+  - Individualization
+
+target_company_types:
+  - "AI-native startups (Series A-C)"
+  - "PKM / cognitive tools companies"
+  - "Chrome extension ecosystem companies"
+  - "AI infrastructure / developer tools"
+  - "Companies with serious applied AI surface area"
+
+education:
+  - degree: "BA Biblical Studies & Theology"
+    school: "Ouachita Baptist University"
+    year: 2010
