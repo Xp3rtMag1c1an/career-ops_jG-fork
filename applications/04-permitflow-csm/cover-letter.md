@@ -6,11 +6,11 @@
 
 Dear PermitFlow Team,
 
-I spent four years at Pulte Mortgage managing $63M in annual loan volume across thousands of construction projects. I know what it feels like when a permit holds up a closing, when an inspection bottleneck stalls a draw, when a single missing document derails a builder's week. PermitFlow is solving the right problem, and I can help your customers adopt the solution.
+I spent four years at Pulte Mortgage managing a $63M loan pipeline in the lending side of new construction. I saw the permit-inspection-closeout cascade from the lender POV — I understand how permit delays ripple through to closing delays and how missing documents stall draws. PermitFlow is solving the right problem in an industry adjacent to where I've operated.
 
-**The domain isn't a stretch — it's where I've lived.**
+**Real estate is active territory for me.**
 
-At Pulte I worked daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors. I'm currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data. Real estate operations is where I am right now and where I've been for years.
+At Pulte I operated inside the proprietary LOS (Empower) + Microsoft Teams, coordinating daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors. I'm currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data — so real estate is where I'm actively operating right now.
 
 **90%+ CSAT at $63M scale.**
 

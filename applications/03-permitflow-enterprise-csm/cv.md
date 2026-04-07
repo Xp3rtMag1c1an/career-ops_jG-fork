@@ -9,13 +9,13 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Real estate operations veteran turned AI builder. I spent four years at **Pulte Mortgage managing a $63M annual loan pipeline at 90%+ CSAT** as a top 3 backlog — I know construction, permitting, builders, and the unglamorous mechanics that decide whether a project closes on time. I now build with the modern AI/agent stack as the solo founder of writenode (Cloudflare Workers, Vectorize, MCP, Gemini). I bring three rare things to PermitFlow: native fluency in the construction/permitting domain, proven enterprise customer outcomes at scale, and the AI builder's instinct for what actually drives adoption.
+Real estate adjacency + AI builder. I spent four years at **Pulte Mortgage managing a $63M loan pipeline at 90%+ CSAT** (bonus threshold), Top 3 backlog after year one — the lender side of the new-construction lifecycle. I'm also actively consulting for Gray Properties & Development on land acquisition. I now build with the modern AI/agent stack as the solo founder of writenode (Cloudflare Workers, Vectorize, MCP, Gemini). I bring real estate domain adjacency, proven enterprise customer outcomes, and AI builder fluency.
 
 ---
 
 ## Why PermitFlow
 
-- **I lived in this domain for four years.** $63M loan pipeline at Pulte Mortgage = thousands of construction projects, permits, inspections, and closeouts. I know the language, the friction points, and the stakeholders.
+- **Real estate domain adjacency.** Four years at Pulte Mortgage in new-construction lending, plus current consulting engagement with Gray Properties & Development on land acquisition. I understand the permit-inspection-closeout cascade from the lender POV.
 - **PT/MT timezone is my actual timezone.** I'm in Scottsdale (MST, no DST). Same hours, same workdays, no overlap drag.
 - **Applied AI for builders is the right wedge.** Construction is one of the most automation-starved industries. I've seen it from the lender side; helping the builder side adopt AI is the natural next chapter.
 

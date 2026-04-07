@@ -21,10 +21,10 @@
 ## Form Answers
 
 **"Why PermitFlow?"**
-> I spent four years at Pulte Mortgage managing $63M in annual loan volume across thousands of construction projects, top 3 backlog at 90%+ CSAT. I lived the permit-inspection-closeout pipeline from the lender side. PermitFlow is solving the right problem in an industry I know natively. I'm also an AI builder — I built a production AI Chrome extension solo with an MCP-integrated agent architecture. The crossover (construction domain + AI fluency + proven customer outcomes) is rare and useful for your customers.
+> I spent four years at Pulte Mortgage managing a $63M loan pipeline in the lending side of new construction, Top 3 backlog after year one at 90%+ CSAT. I saw the permit-inspection-closeout cascade from the lender POV. I'm also currently consulting for Gray Properties & Development on land acquisition — real estate is active territory for me right now. I'm an AI builder too — writenode is my production AI Chrome extension with an MCP-integrated agent architecture. The crossover (real estate adjacency + AI builder fluency + proven customer outcomes) is rare and useful for your customers.
 
 **"What's your CSM experience?"**
-> Four years at Pulte Mortgage as a Senior Loan Consultant — I had a large concurrent pipeline serving builders and homeowners, and maintained 90%+ CSAT (bonus threshold). Before that, four years owning Avenue Alive Direct where I authored a national sales playbook adopted by 400 reps across 40 markets and achieved the highest sales & install retention in the company. Both roles were customer outcomes at scale — same muscle, different surface.
+> Four years at Pulte Mortgage as a Senior Loan Consultant — managed a $63M loan pipeline, Top 3 backlog after year one, hit the 90%+ CSAT bonus threshold. Before that, four years owning Avenue Alive Direct where I authored a national sales playbook adopted by 400 reps across 40 markets and achieved the highest sales AND highest install retention in the company. Both roles were customer outcomes at scale — same muscle, different surface.
 
 ## Files
 - `cv.md` · `cover-letter.md` · `apply.md`

@@ -9,13 +9,13 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Real estate operations veteran turned AI builder. I spent four years at **Pulte Mortgage managing a $63M annual loan pipeline at 90%+ CSAT** as a top 3 backlog — I know construction, permitting, and what it takes to keep a builder unblocked. I now build with the modern AI stack as the solo founder of writenode (Cloudflare Workers, Vectorize, Gemini, MCP). I bring native domain fluency, proven CSM-level customer outcomes, and the AI builder's instinct for adoption.
+Real estate adjacency + AI builder. I spent four years at **Pulte Mortgage managing a $63M loan pipeline at 90%+ CSAT** (bonus threshold), Top 3 backlog after year one — the lender side of the new-construction lifecycle. I'm also currently consulting for Gray Properties & Development on land acquisition. I now build with the modern AI stack as the solo founder of writenode (Cloudflare Workers, Vectorize, Gemini, MCP). I bring real estate domain adjacency, proven customer outcomes, and AI builder fluency.
 
 ---
 
 ## Why PermitFlow
 
-- **I lived in this domain for four years** — $63M loan pipeline = thousands of construction projects
+- **Real estate domain adjacency** — Pulte new-construction lending + active Gray Properties consulting
 - **90%+ CSAT at scale** — I know how to make customers stay
 - **Building with AI agents** — peer fluency, not buzzwords
 

@@ -6,7 +6,8 @@
 
 ## Why Top Pick
 - PT/MT matches Scottsdale exactly
-- 4 years at Pulte Mortgage = direct construction/permitting domain experience
+- 4 years at Pulte Mortgage in new-construction lending = real estate domain adjacency
+- Currently consulting for Gray Properties & Development on land acquisition
 - AI agent workforce for construction = perfect wedge for your background
 
 ## Quick Info
@@ -25,7 +26,7 @@
 ## Form Answers
 
 **"Why PermitFlow?"**
-> I spent four years at Pulte Mortgage managing $63M in annual loan volume across thousands of construction projects. I know permits, inspections, draws, title companies, builders, and the cascade of pain when a single document delays a closing. PermitFlow is solving the right problem in an industry I lived in for four years. I'm now an AI builder too — I built a production AI Chrome extension solo with an MCP-integrated agent architecture. I bring rare crossover: the domain fluency of someone who's lived the construction/lending pipeline AND the AI builder's instinct for what makes AI adoption actually stick.
+> I spent four years at Pulte Mortgage managing a $63M loan pipeline in the lending side of new construction, Top 3 backlog after year one at 90%+ CSAT. I saw the permit-inspection-closeout cascade from the lender POV — I understand how a permit delay ripples through to a closing delay and what it takes to unblock a project. I'm currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data, so real estate is active territory for me right now. I'm also an AI builder — writenode is my production AI Chrome extension with an MCP-integrated agent architecture. The crossover (real estate adjacency + AI builder fluency + proven customer outcomes) is rare and useful for your customers.
 
 **"Tell us about a complex customer situation you navigated."**
 > At Pulte, a builder client had three concurrent projects in a single development that hit a permit bottleneck — the city was sitting on documentation that was technically complete but procedurally misfiled. The borrower was looking at delayed closings and a serious cash flow problem. I coordinated between the builder's PM, the title company, our underwriting team, and the municipal office; reframed the documentation in the format the city actually wanted; got two of the three projects unstuck within a week and the third within two. The borrower wrote a letter to my manager. The lesson: enterprise customer outcomes are about advocacy and translation, not just product knowledge.

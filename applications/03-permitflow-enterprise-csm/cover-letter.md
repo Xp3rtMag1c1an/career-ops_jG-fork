@@ -6,11 +6,11 @@
 
 Dear PermitFlow Team,
 
-I spent four years at Pulte Mortgage managing **$63M in annual loan volume across thousands of construction projects** — I lived the permit-licensing-inspection-closeout pipeline from the lender side, and I know exactly where it breaks. I'm writing because I can help PermitFlow's enterprise builder customers adopt and succeed because I speak their language fluently.
+I spent four years at Pulte Mortgage managing a **$63M loan pipeline in the lending side of new construction** — I saw the permit-licensing-inspection-closeout cascade from the lender POV. I'm writing because I can help PermitFlow's enterprise builder customers adopt and succeed because the domain is adjacent to where I've operated for years.
 
-**The domain isn't a stretch — it's my home turf.**
+**Real estate is active territory for me.**
 
-At Pulte, I worked daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors. I know what it feels like when a permit delay cascades into a closing delay, when an inspection bottleneck stalls a $2M draw, when a single missing document holds up an entire phase of a development. That's the world your customers live in, and that's the world your AI agent workforce is solving.
+At Pulte, I operated inside the proprietary LOS (Empower) + Microsoft Teams, coordinating daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors within Pulte's internal policies. I understand how permit delays cascade into closing delays, how inspection bottlenecks stall draws, and how a single missing document can derail a phase. I'm also currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data — so real estate is where I'm actively working right now.
 
 **90%+ CSAT at $63M scale.**
 
