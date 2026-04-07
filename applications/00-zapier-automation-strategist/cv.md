@@ -26,7 +26,7 @@ AI-native builder and customer operator with the rare combination of practitione
 
 ### Founder & Developer — writenode (AI-Native Workflow Orchestration) · Dec 2024 – Present
 
-Built a production AI Chrome extension solo without an engineering background — the entire architecture is workflow orchestration applied to cognition.
+Built a production AI Chrome extension as solo founder by directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now running on Render. The entire architecture is workflow orchestration applied to cognition.
 
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS 5-mode pre-chain classifier · 4R Cognitive Loop (Retain → Recall → Reflect → Rewire)
 - **Automation stack:** Cloudflare Workers (orchestration), Vectorize (embeddings retrieval), Gemini 2.5 Pro (reasoning), MCP (agentic integration), Deepgram + AssemblyAI (voice)
