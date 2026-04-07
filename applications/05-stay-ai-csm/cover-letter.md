@@ -10,9 +10,9 @@ The name says it all — and retention is what I've done my whole career. I'm wr
 
 **Retention is the through-line.**
 
-At **Avenue Alive Direct** (Verizon FiOS / DirecTV), I scaled to $300K+ in Year 1 and **achieved the highest install retention in the company.** Subscription/install retention isn't theory for me — I lived it daily across 40+ markets and 400 reps who eventually adopted the playbook I authored.
+At **Avenue Alive Direct** (Verizon FiOS / DirecTV), I scaled to $300K+ in Year 1 and **achieved the highest sales & install retention in the company.** Subscription/install retention isn't theory for me — I lived it daily across 40+ markets and 400 reps who eventually adopted the playbook I authored.
 
-At **Pulte Mortgage**, I managed a $63M annual loan pipeline at **94% CSAT** for four years — top 3 of 150 consultants. Customer outcomes at high stakes are about advocacy, clarity, and making the system teachable so it scales beyond you.
+At **Pulte Mortgage**, I managed a $63M annual loan pipeline at **90%+ CSAT** (bonus threshold) — top 3 backlog. Customer outcomes at high stakes are about advocacy, clarity, and making the system teachable so it scales beyond you.
 
 **I now build with AI agents.**
 
@@ -20,7 +20,7 @@ I'm the solo founder of writenode, a production AI Chrome extension. I designed 
 
 **Why Stay AI:**
 
-1. Retention is my core muscle — Pulte 94% CSAT, Avenue Alive highest in company
+1. Retention is my core muscle — Pulte 90%+ CSAT, Avenue Alive highest in company
 2. Subscription/lifecycle mechanics are operator territory — I think in churn signals and expansion plays
 3. AI builder credentials = peer fluency with your customers
 4. Remote-first matches how I already work

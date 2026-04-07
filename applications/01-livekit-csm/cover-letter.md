@@ -14,9 +14,9 @@ I'm the solo founder of writenode, a production AI Chrome extension. The voice l
 
 **I've owned customer outcomes at scale.**
 
-For four years at Pulte Mortgage I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants. Mortgage lending is high-stakes, high-trust, and unforgiving. Customers need clear communication, fast escalations, and a partner who understands their problem before they finish describing it. That's the same muscle CSM at LiveKit requires when a customer's voice agent is misbehaving in production.
+For four years at Pulte Mortgage I managed a **$63M annual loan pipeline at 90%+ CSAT** — top 3 backlog. Mortgage lending is high-stakes, high-trust, and unforgiving. Customers need clear communication, fast escalations, and a partner who understands their problem before they finish describing it. That's the same muscle CSM at LiveKit requires when a customer's voice agent is misbehaving in production.
 
-Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1, trained 25+ reps, and authored a playbook adopted by **400 reps across 40 markets**. Highest install retention in the company. I know how to make customers stay, expand, and become advocates.
+Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1, trained 25+ reps, and authored a playbook adopted by **400 reps across 40 markets**. Highest sales & install retention in the company. I know how to make customers stay, expand, and become advocates.
 
 **The "no engineering background" angle.**
 

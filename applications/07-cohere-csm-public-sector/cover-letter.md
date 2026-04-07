@@ -21,15 +21,15 @@ I taught myself the entire stack from scratch because I had a problem worth ship
 
 **Regulated-industry discipline.**
 
-For four years at **Pulte Mortgage** I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants. Mortgage lending is a federally regulated environment — every interaction is auditable, every disclosure is on a clock, and error tolerance is low. That's exactly the discipline US Public Sector customers expect from their vendors.
+For four years at **Pulte Mortgage** I managed a **$63M annual loan pipeline at 90%+ CSAT** — top 3 backlog. Mortgage lending is a federally regulated environment — every interaction is auditable, every disclosure is on a clock, and error tolerance is low. That's exactly the discipline US Public Sector customers expect from their vendors.
 
-**94% CSAT at $63M scale.**
+**90%+ CSAT at $63M scale.**
 
 The metric isn't the story — the story is that I built a personal operating system that was teachable. New consultants could plug in and perform. That's the muscle Public Sector customers need: systems that scale beyond a single champion, governance that makes audits painless, and a CSM who advocates inside their own company.
 
 **The Avenue Alive lesson.**
 
-I authored a national sales playbook adopted by **400 reps across 40 markets** with the **highest install retention in the company.** A national playbook is a workflow specification at human scale — same shape as helping a federal agency roll out an LLM platform across distributed teams.
+I authored a national sales playbook adopted by **400 reps across 40 markets** with the **highest sales & install retention in the company.** A national playbook is a workflow specification at human scale — same shape as helping a federal agency roll out an LLM platform across distributed teams.
 
 **Why Cohere — US Public Sector specifically:**
 

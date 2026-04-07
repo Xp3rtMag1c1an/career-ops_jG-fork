@@ -21,10 +21,10 @@
 ## Form Answers
 
 **"Why PermitFlow?"**
-> I spent four years at Pulte Mortgage managing $63M in annual loan volume across thousands of construction projects, top 3 of 150 consultants at 94% CSAT. I lived the permit-inspection-closeout pipeline from the lender side. PermitFlow is solving the right problem in an industry I know natively. I'm also an AI builder — I built a production AI Chrome extension solo with an MCP-integrated agent architecture. The crossover (construction domain + AI fluency + proven customer outcomes) is rare and useful for your customers.
+> I spent four years at Pulte Mortgage managing $63M in annual loan volume across thousands of construction projects, top 3 backlog at 90%+ CSAT. I lived the permit-inspection-closeout pipeline from the lender side. PermitFlow is solving the right problem in an industry I know natively. I'm also an AI builder — I built a production AI Chrome extension solo with an MCP-integrated agent architecture. The crossover (construction domain + AI fluency + proven customer outcomes) is rare and useful for your customers.
 
 **"What's your CSM experience?"**
-> Four years at Pulte Mortgage as a Senior Loan Consultant — I had a 180-loan concurrent pipeline serving builders and homeowners, and maintained 94% CSAT for four consecutive years. Before that, four years owning Avenue Alive Direct where I authored a national sales playbook adopted by 400 reps across 40 markets and achieved the highest install retention in the company. Both roles were customer outcomes at scale — same muscle, different surface.
+> Four years at Pulte Mortgage as a Senior Loan Consultant — I had a large concurrent pipeline serving builders and homeowners, and maintained 90%+ CSAT (bonus threshold). Before that, four years owning Avenue Alive Direct where I authored a national sales playbook adopted by 400 reps across 40 markets and achieved the highest sales & install retention in the company. Both roles were customer outcomes at scale — same muscle, different surface.
 
 ## Files
 - `cv.md` · `cover-letter.md` · `apply.md`

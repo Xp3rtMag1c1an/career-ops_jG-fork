@@ -9,13 +9,13 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Real estate operations veteran turned AI builder. I spent four years at **Pulte Mortgage managing a $63M annual loan pipeline at 94% CSAT** as a top-3-of-150 consultant — I know construction, permitting, builders, and the unglamorous mechanics that decide whether a project closes on time. I now build with the modern AI/agent stack as the solo founder of writenode (Cloudflare Workers, Vectorize, MCP, Gemini). I bring three rare things to PermitFlow: native fluency in the construction/permitting domain, proven enterprise customer outcomes at scale, and the AI builder's instinct for what actually drives adoption.
+Real estate operations veteran turned AI builder. I spent four years at **Pulte Mortgage managing a $63M annual loan pipeline at 90%+ CSAT** as a top 3 backlog — I know construction, permitting, builders, and the unglamorous mechanics that decide whether a project closes on time. I now build with the modern AI/agent stack as the solo founder of writenode (Cloudflare Workers, Vectorize, MCP, Gemini). I bring three rare things to PermitFlow: native fluency in the construction/permitting domain, proven enterprise customer outcomes at scale, and the AI builder's instinct for what actually drives adoption.
 
 ---
 
 ## Why PermitFlow
 
-- **I lived in this domain for four years.** $63M annual loan volume at Pulte Mortgage = thousands of construction projects, permits, inspections, and closeouts. I know the language, the friction points, and the stakeholders.
+- **I lived in this domain for four years.** $63M loan pipeline at Pulte Mortgage = thousands of construction projects, permits, inspections, and closeouts. I know the language, the friction points, and the stakeholders.
 - **PT/MT timezone is my actual timezone.** I'm in Scottsdale (MST, no DST). Same hours, same workdays, no overlap drag.
 - **Applied AI for builders is the right wedge.** Construction is one of the most automation-starved industries. I've seen it from the lender side; helping the builder side adopt AI is the natural next chapter.
 
@@ -25,7 +25,7 @@ Real estate operations veteran turned AI builder. I spent four years at **Pulte 
 
 ### Founder & Developer — writenode (AI Chrome Extension) · Dec 2024 – Present
 
-- Built production AI Chrome extension solo without an engineering background
+- Built production AI Chrome extension as solo founder, directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now in production on Render
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS 5-mode classifier · 4R Cognitive Loop · MCP integration
 - **Stack:** React, TypeScript, Cloudflare Workers, Vectorize, Gemini 2.5 Pro, Deepgram, AssemblyAI
 - YC Spring 2026 application · Hindsight/Vectorize partnership · Don Fotsch (former Apple) championing
@@ -34,10 +34,10 @@ Real estate operations veteran turned AI builder. I spent four years at **Pulte 
 
 **Four years deep in the construction → permit → close pipeline.**
 
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
-- Built personal operating systems so new consultants could plug in and perform
-- Worked daily with builders, title companies, appraisers, and inspectors — I know how the players talk and where things break
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
+- Built personal operating systems so new Loan Officers could plug in and perform
+- Worked daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors — coordinated across the workflow within Pulte's internal policies
 - Fully remote execution with self-designed workstreams
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present
@@ -55,8 +55,8 @@ Real estate operations veteran turned AI builder. I spent four years at **Pulte 
 
 - Scaled to **$300K+ Year 1 revenue** · trained 25+ reps
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
-- **Highest install retention in company**
-- #1 national ranking from Day One
+- **Highest sales & install retention in company**
+- Statistically #1 from Day One across multiple campaigns & cities
 
 ### International Liaison & Curriculum Developer — Bridge2Rwanda · 2010–2011
 

@@ -10,15 +10,15 @@ The "Deployments" qualifier in this role is what caught my attention — because
 
 **Multi-site deployment at 40+ markets.**
 
-At **Avenue Alive Direct** (Verizon FiOS / DirecTV), I scaled a sales operation across 40+ markets and authored a national playbook adopted by **400 reps**. The mechanics of rolling out something across 40 distributed sites are the same whether you're deploying reps or warehouse robots: you standardize the playbook, train the local champions, instrument early adoption signals, and intervene when sites drift. **Highest install retention in the company.**
+At **Avenue Alive Direct** (Verizon FiOS / DirecTV), I scaled a sales operation across 40+ markets and authored a national playbook adopted by **400 reps**. The mechanics of rolling out something across 40 distributed sites are the same whether you're deploying reps or warehouse robots: you standardize the playbook, train the local champions, instrument early adoption signals, and intervene when sites drift. **Highest sales & install retention in the company.**
 
 **Deployment from zero in unfamiliar territory.**
 
 In 2010 I deployed to **Kigali, Rwanda** with Bridge2Rwanda. No playbook, no precedent, no stakeholder alignment. I built a curriculum and training framework from first principles, aligned stakeholders across cultural and organizational lines, and shipped a system **still in use 15+ years later by local leaders.** Nothing in CS is harder than that — it's the literal "we don't even know what good looks like yet" assignment, and I shipped through it.
 
-**94% CSAT at $63M scale.**
+**90%+ CSAT at $63M scale.**
 
-Four years at Pulte Mortgage managing a $63M annual loan pipeline at 94% CSAT — top 3 of 150 consultants. I built personal operating systems that scaled — making them teachable so new consultants could plug in. That's deployment thinking applied to onboarding.
+Four years at Pulte Mortgage managing a $63M annual loan pipeline at 90%+ CSAT — top 3 backlog. I built personal operating systems that scaled — making them teachable so new Loan Officers could plug in. That's deployment thinking applied to onboarding.
 
 **I'm building with AI agents.**
 

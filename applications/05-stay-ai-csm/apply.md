@@ -19,7 +19,7 @@
 ## Form Answers
 
 **"Why Stay AI?"**
-> The name is the thesis — and retention is what I've done my whole career. At Avenue Alive Direct I achieved the highest install retention in the company across 40+ markets. At Pulte Mortgage I maintained 94% CSAT on a $63M loan pipeline for four years, top 3 of 150 consultants. I now build with the AI stack as the solo founder of writenode. The crossover — retention operator + AI builder — is rare and useful for a company whose entire product is keeping subscriptions alive.
+> The name is the thesis — and retention is what I've done my whole career. At Avenue Alive Direct I achieved the highest sales & install retention in the company across 40+ markets. At Pulte Mortgage I maintained 90%+ CSAT on a $63M loan pipeline (bonus threshold), top 3 backlog. I now build with the AI stack as the solo founder of writenode. The crossover — retention operator + AI builder — is rare and useful for a company whose entire product is keeping subscriptions alive.
 
 **"What's your retention philosophy?"**
 > Retention is built upstream of the renewal moment. By the time a customer is "at risk," you've already lost — you can sometimes save them, but it's expensive. The real work is in the first 30 days, in proactive check-ins, in noticing the silent disengagement signals before they become tickets. At Pulte, I knew which borrowers were going to struggle before they did because I had a system for spotting friction early. At Avenue Alive, I built objection-handling frameworks based on what reps actually heard at the door — not what marketing thought they'd hear. Retention at Stay AI is the same shape: instrument the lifecycle, find the silent signals, intervene before it's the renewal call.

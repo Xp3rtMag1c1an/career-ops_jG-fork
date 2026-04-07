@@ -9,7 +9,7 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Mission-driven operator with rare crossover: AI builder fluency and proven customer outcomes at high-trust, high-stakes scale. As the solo founder of writenode, I built a production AI Chrome extension on a modern LLM stack (Cloudflare Workers, Vectorize, Gemini, MCP). At Pulte Mortgage I managed a **$63M annual loan pipeline at 94% CSAT** as top 3 of 150 consultants in a federally regulated industry. **US Citizen, no sponsorship needed.** I bring fluency in Cohere's stack, federal-grade discipline from regulated industries, and the empathy of a builder who understands the customer's actual problems.
+Mission-driven operator with rare crossover: AI builder fluency and proven customer outcomes at high-trust, high-stakes scale. As the solo founder of writenode, I built a production AI Chrome extension on a modern LLM stack (Cloudflare Workers, Vectorize, Gemini, MCP). At Pulte Mortgage I managed a **$63M annual loan pipeline at 90%+ CSAT** as top 3 backlog in a federally regulated industry. **US Citizen, no sponsorship needed.** I bring fluency in Cohere's stack, federal-grade discipline from regulated industries, and the empathy of a builder who understands the customer's actual problems.
 
 ---
 
@@ -26,7 +26,7 @@ Mission-driven operator with rare crossover: AI builder fluency and proven custo
 
 ### Founder & Developer — writenode (AI Chrome Extension) · Dec 2024 – Present
 
-- Built production AI Chrome extension solo without an engineering background
+- Built production AI Chrome extension as solo founder, directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now in production on Render
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS 5-mode classifier · 4R Cognitive Loop · MCP integration
 - **Stack:** React, TypeScript, Cloudflare Workers, Vectorize (embeddings), Gemini 2.5 Pro, Deepgram, AssemblyAI
 - YC Spring 2026 application · Hindsight/Vectorize partnership · Don Fotsch (former Apple) championing
@@ -36,11 +36,11 @@ Mission-driven operator with rare crossover: AI builder fluency and proven custo
 
 **Federally regulated industry — high-trust, high-stakes customer outcomes.**
 
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
 - Operated inside a federally regulated industry (CFPB/RESPA/TRID compliance environment)
-- Built personal operating systems so new consultants could plug in and perform
-- Trained and mentored new consultants — making the system teachable was the unlock
+- Built personal operating systems so new Loan Officers could plug in and perform
+- Trained and mentored new Loan Officers — making the system teachable was the unlock
 - Fully remote execution
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present
@@ -52,8 +52,8 @@ Mission-driven operator with rare crossover: AI builder fluency and proven custo
 
 - Scaled to **$300K+ Year 1 revenue** · trained 25+ reps directly
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
-- **Highest install retention in company**
-- #1 national ranking from Day One
+- **Highest sales & install retention in company**
+- Statistically #1 from Day One across multiple campaigns & cities
 
 ### International Liaison & Curriculum Developer — Bridge2Rwanda · 2010–2011
 

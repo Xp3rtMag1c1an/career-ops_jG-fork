@@ -27,7 +27,7 @@ done
 
 | # | Folder | Company | Role | Why |
 |---|--------|---------|------|-----|
-| ⭐ | `00-zapier-automation-strategist/` | **Zapier** | Automation Strategist (CS) | Decade Zapier user + AI builder + 94% CSAT |
+| ⭐ | `00-zapier-automation-strategist/` | **Zapier** | Automation Strategist (CS) | AI builder + hands-on Zapier experimenter + 90%+ CSAT |
 | ⭐ | `03-permitflow-enterprise-csm/` | **PermitFlow** | Enterprise CSM (PT/MT) | Construction domain + Pulte experience |
 | ⭐ | `01-livekit-csm/` | **LiveKit** | CSM | Voice AI stack match (Deepgram/AssemblyAI) |
 | 4 | `06-intellistack-senior-csm/` | Intellistack | Senior CSM | AI automation + builder fluency |

@@ -9,13 +9,13 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Retention-obsessed operator with a builder's instinct. I scaled Avenue Alive Direct to **$300K+ Year 1 with the highest install retention in the company** and managed a **$63M loan pipeline at 94% CSAT** for four years at Pulte Mortgage. I now build with the AI stack daily as the solo founder of writenode. I bring three things to a CSM role at Stay AI: native fluency in subscription/retention mechanics, proven customer outcomes at scale, and the AI builder's instinct for what makes adoption stick.
+Retention-obsessed operator with a builder's instinct. I scaled Avenue Alive Direct to **$300K+ Year 1 with the highest sales & install retention in the company** and managed a **$63M loan pipeline at 90%+ CSAT** for four years at Pulte Mortgage. I now build with the AI stack daily as the solo founder of writenode. I bring three things to a CSM role at Stay AI: native fluency in subscription/retention mechanics, proven customer outcomes at scale, and the AI builder's instinct for what makes adoption stick.
 
 ---
 
 ## Why Stay AI
 
-- **Retention is what I've done my whole career** — Pulte 94% CSAT, Avenue Alive highest install retention in company
+- **Retention is what I've done my whole career** — Pulte 90%+ CSAT, Avenue Alive highest sales & install retention in company
 - **Subscription mechanics are operator territory** — I think in lifecycle, churn signals, and expansion plays
 - **AI builder credentials** — writenode is live in production with peer-level technical fluency
 
@@ -24,7 +24,7 @@ Retention-obsessed operator with a builder's instinct. I scaled Avenue Alive Dir
 ## Experience
 
 ### Founder & Developer — writenode · Dec 2024 – Present
-- Built production AI Chrome extension solo without engineering background
+- Built production AI Chrome extension as solo founder, directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now in production on Render
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS classifier · MCP integration
 - **Stack:** React, TypeScript, Cloudflare Workers, Vectorize, Gemini 2.5 Pro, Deepgram, AssemblyAI
 - YC Spring 2026 application · Hindsight/Vectorize partnership · Don Fotsch (former Apple) championing
@@ -35,14 +35,14 @@ Retention-obsessed operator with a builder's instinct. I scaled Avenue Alive Dir
 
 - Scaled to **$300K+ Year 1 revenue** · trained 25+ reps directly
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
-- **Highest install retention in the company** — built objection-handling framework adopted org-wide
-- #1 national ranking from Day One
+- **Highest sales & install retention in the company** — built objection-handling framework adopted org-wide
+- Statistically #1 from Day One across multiple campaigns & cities
 - Worked daily inside the install/retention/expansion lifecycle
 
 ### Senior Loan Consultant — Pulte Mortgage · Dec 2019 – Nov 2023
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
-- Built personal operating systems so new consultants could plug in and perform
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
+- Built personal operating systems so new Loan Officers could plug in and perform
 - Fully remote execution with self-designed workstreams
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present

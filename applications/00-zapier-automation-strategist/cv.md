@@ -9,7 +9,7 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-AI-native builder and customer operator with the rare combination of practitioner-level fluency in modern automation tooling and proven customer outcomes at enterprise stakes. As the solo founder of writenode I built a production AI Chrome extension on a modern orchestration stack (Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram). As a Senior Loan Consultant at Pulte Mortgage I managed a **$63M annual pipeline at 94% CSAT** as top 3 of 150 consultants. I bring three things to an Automation Strategist role: peer fluency in the AI/automation stack, **94% CSAT at enterprise scale**, and the builder's instinct for what makes automation stick with non-technical teams.
+AI-native builder and customer operator with the rare combination of practitioner-level fluency in modern automation tooling and proven customer outcomes at enterprise stakes. As the solo founder of writenode I built a production AI Chrome extension on a modern orchestration stack (Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram). As a Senior Loan Consultant at Pulte Mortgage I managed a **$63M annual pipeline at 90%+ CSAT** as top 3 backlog. I bring three things to an Automation Strategist role: peer fluency in the AI/automation stack, **90%+ CSAT at enterprise scale**, and the builder's instinct for what makes automation stick with non-technical teams.
 
 ---
 
@@ -18,7 +18,7 @@ AI-native builder and customer operator with the rare combination of practitione
 - **AI-native builder** — writenode uses Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram in production
 - **Hands-on Zapier experimenter** — using it actively in my current AI builder work
 - **I think in pipelines literally** — writenode is capture → structure → retrieval → action
-- **94% CSAT at enterprise stakes** — Mortgage lending taught me how to make complex systems land with non-technical customers
+- **90%+ CSAT at enterprise stakes** — Mortgage lending taught me how to make complex systems land with non-technical customers
 
 ---
 
@@ -46,10 +46,10 @@ Built a production AI Chrome extension solo without an engineering background �
 
 **Automation governance at $63M scale.**
 
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
 - Built personal operating systems (the human equivalent of Zaps) to reduce errors and scale throughput
-- Trained and mentored new consultants on the operating system — **making automation teachable was the unlock**
+- Trained and mentored new Loan Officers on the operating system — **making automation teachable was the unlock**
 - Fully remote execution with self-designed workstreams
 
 ### Owner & Managing Partner — Avenue Alive Direct (Verizon FiOS / DirecTV) · 2014 – 2018
@@ -58,8 +58,8 @@ Built a production AI Chrome extension solo without an engineering background �
 
 - Scaled to **$300K+ Year 1 revenue**, trained 25+ reps directly
 - **Authored national sales playbook adopted by 400 reps across 40 markets** — the playbook is a workflow specification at human scale
-- **Highest install retention in company** — built objection-handling framework adopted org-wide
-- #1 national ranking from Day One until promotion to management
+- **Highest sales & install retention in company** — built objection-handling framework adopted org-wide
+- Statistically #1 from Day One across multiple campaigns & cities
 
 ### International Liaison & Curriculum Developer — Bridge2Rwanda · 2010–2011
 

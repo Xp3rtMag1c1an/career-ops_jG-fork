@@ -8,15 +8,15 @@ Dear Close Team,
 
 I've spent eight years in sales-led organizations — four at Avenue Alive Direct (Verizon FiOS / DirecTV) and four at Pulte Mortgage. I'm writing because I'd love to help Close customers win the way I won: by treating the CRM as the operating system, not the inbox.
 
-**I'm a sales operator at heart.** *[JOSH: verify specific CRM tools you used at Pulte / Avenue Alive before claiming CRM expertise]*
+**CRM tools I've used:** Salesforce at Tonal and at Avenue Alive Direct. Pulte's proprietary LOS "Empower" + Microsoft Teams for pipeline coordination. Most of my sales tooling has been proprietary to the companies I've worked at — which means I know how to learn a new CRM fast and run it as the operating system, not the inbox.
 
-At **Avenue Alive Direct**, I scaled to $300K+ Year 1, trained 25+ reps, and authored a national sales playbook adopted by **400 reps across 40 markets**. I was #1 nationally from Day One. The playbook worked because I built it from field-level execution data — what reps actually heard at the door — not from theory. **Highest install retention in the company.**
+At **Avenue Alive Direct**, I scaled to $300K+ Year 1, trained 25+ reps, and authored a national sales playbook adopted by **400 reps across 40 markets**. I was statistically **#1 from Day One** across multiple campaigns and multiple cities — whatever I did, everyone followed suit. **Highest sales and install retention in the company.**
 
-At **Pulte Mortgage**, I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants for four consecutive years. Lending is sales with stakes — every borrower is a deal that has to close on time without compliance issues. I lived inside the CRM, lead management, and pipeline workflows daily. I know exactly how a sales-led org wants their tools to work.
+At **Pulte Mortgage**, I managed a **$63M loan pipeline at 90%+ CSAT** (hitting the bonus threshold consistently) and was **Top 3 backlog after year one**. I operated daily inside Empower and Microsoft Teams, coordinating with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors within Pulte's internal policies (Pulte prohibits direct LO ↔ sales contact by design).
 
 **I now build with AI agents.**
 
-I'm the solo founder of writenode, a production AI Chrome extension. SOURCE NODE consolidated agent, KAIROS 5-mode classifier, MCP integration, Cloudflare Workers + Vectorize + Gemini stack. I built it solo without an engineering background because I had a problem worth shipping. I can speak to Close customers about AI as a peer.
+I'm the solo founder of writenode, a production AI Chrome extension. SOURCE NODE consolidated agent, KAIROS 5-mode classifier, MCP integration, Cloudflare Workers + Vectorize + Gemini stack. I built it as solo founder by directing AI tools (Lovable prototype, 30+ iterated builds) because I had a problem worth shipping. I can speak to Close customers about AI as a peer.
 
 **Why Close:**
 

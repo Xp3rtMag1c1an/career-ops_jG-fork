@@ -10,11 +10,11 @@ I spent four years at Pulte Mortgage managing **$63M in annual loan volume acros
 
 **The domain isn't a stretch — it's my home turf.**
 
-At Pulte, I worked daily with builders, title companies, appraisers, inspectors, and municipal officials. I know what it feels like when a permit delay cascades into a closing delay, when an inspection bottleneck stalls a $2M draw, when a single missing document holds up an entire phase of a development. That's the world your customers live in, and that's the world your AI agent workforce is solving.
+At Pulte, I worked daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors. I know what it feels like when a permit delay cascades into a closing delay, when an inspection bottleneck stalls a $2M draw, when a single missing document holds up an entire phase of a development. That's the world your customers live in, and that's the world your AI agent workforce is solving.
 
-**94% CSAT at $63M scale.**
+**90%+ CSAT at $63M scale.**
 
-I was top 3 of 150 consultants for four consecutive years at 94% CSAT. The win wasn't the metric — it was building a personal operating system that scaled. New consultants could plug in and perform because I made the system teachable. That's the same muscle PermitFlow's enterprise customers need: not just deploying the tool, but making AI adoption stick across distributed teams of project managers and superintendents who don't have time to learn another platform.
+I was top 3 backlog after year one at 90%+ CSAT. The win wasn't the metric — it was building a personal operating system that scaled. New consultants could plug in and perform because I made the system teachable. That's the same muscle PermitFlow's enterprise customers need: not just deploying the tool, but making AI adoption stick across distributed teams of project managers and superintendents who don't have time to learn another platform.
 
 **I'm building with AI agents myself.**
 

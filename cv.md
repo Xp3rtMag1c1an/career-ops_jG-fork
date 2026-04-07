@@ -29,7 +29,7 @@ Individualization
 ### Founder & Developer — writenode
 **Dec 2024 – Present | Scottsdale, AZ**
 - Built AI-native Chrome extension from zero (no formal engineering background)
-- Stack: React, TypeScript, Cloudflare Pages, Render, Vectorize (Hindsight AI), 
+- Stack: React, TypeScript, Render (deployed) & Cloudflare Workers, Vectorize (Hindsight AI), 
   Gemini 2.5 Pro, Deepgram, AssemblyAI
 - Architecture: single consolidated agent (SOURCE NODE), KAIROS cognitive 
   pre-chain classifier (5 modes), 4R Cognitive Loop (Retain → Recall → Reflect → 
@@ -54,16 +54,16 @@ Individualization
 
 ### Senior Loan Consultant — Pulte Mortgage
 **Dec 2019 – Nov 2023**
-- ~$63M annual loan volume; ~180-loan pipeline
-- Top 3 of ~150 consultants; 94% customer satisfaction score
+- ~$63M loan pipeline; ~multi-loan pipeline
+- Top 3 of ~150 consultants; 90%+ customer satisfaction score
 - Designed personal operating systems to reduce errors and increase throughput
-- Trained and mentored new consultants
+- Trained and mentored new Loan Officers
 
 ### Owner & Managing Partner — Avenue Alive Direct (Verizon FiOS / DirecTV)
 **2014 – 2018**
 - Scaled to $300K+ Year 1 revenue; trained 25+ reps
 - Authored national sales playbook adopted by ~400 reps across ~40 markets
-- #1 national ranking from Day One until promotion to management
+- Statistically #1 from Day One across multiple campaigns & cities
 - Highest install retention; created objection-handling framework adopted 
   organization-wide
 

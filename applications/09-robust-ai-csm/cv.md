@@ -9,14 +9,14 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Deployment-focused operator with AI builder fluency. I scaled Avenue Alive Direct across **40+ markets training 400 reps** on a national playbook I authored, ran a **$63M loan pipeline at 94% CSAT** at Pulte Mortgage as top 3 of 150 consultants, and now build with the AI stack daily as the solo founder of writenode. I bring three things to a Deployment-focused CSM role at Robust.ai: native fluency in multi-site deployment mechanics, proven customer outcomes at scale, and the AI builder's instinct for adoption.
+Deployment-focused operator with AI builder fluency. I scaled Avenue Alive Direct across **40+ markets training 400 reps** on a national playbook I authored, ran a **$63M loan pipeline at 90%+ CSAT** at Pulte Mortgage as top 3 backlog, and now build with the AI stack daily as the solo founder of writenode. I bring three things to a Deployment-focused CSM role at Robust.ai: native fluency in multi-site deployment mechanics, proven customer outcomes at scale, and the AI builder's instinct for adoption.
 
 ---
 
 ## Why Robust.ai
 
 - **Deployment is what I do** — Avenue Alive scaled across 40 markets, Bridge2Rwanda deployed curriculum from scratch in Kigali
-- **94% CSAT at $63M scale** — proven retention at high-stakes
+- **90%+ CSAT at $63M scale** — proven retention at high-stakes
 - **AI builder credentials** — writenode is live in production with peer-level technical fluency
 - **Robotics/warehouse domain** — operations-heavy customers need an operator-CSM
 
@@ -25,15 +25,15 @@ Deployment-focused operator with AI builder fluency. I scaled Avenue Alive Direc
 ## Experience
 
 ### Founder & Developer — writenode · Dec 2024 – Present
-- Built production AI Chrome extension solo without engineering background
+- Built production AI Chrome extension as solo founder, directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now in production on Render
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS classifier · MCP integration
 - **Stack:** Cloudflare Workers, Vectorize, Gemini 2.5 Pro, Deepgram, AssemblyAI
 - YC Spring 2026 application · Hindsight/Vectorize partnership · Don Fotsch (former Apple) championing
 
 ### Senior Loan Consultant — Pulte Mortgage · Dec 2019 – Nov 2023
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
-- Built personal operating systems so new consultants could plug in and perform
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
+- Built personal operating systems so new Loan Officers could plug in and perform
 - Fully remote execution with self-designed workstreams
 
 ### Owner & Managing Partner — Avenue Alive Direct (Verizon FiOS / DirecTV) · 2014 – 2018
@@ -42,8 +42,8 @@ Deployment-focused operator with AI builder fluency. I scaled Avenue Alive Direc
 
 - Scaled to **$300K+ Year 1 revenue** · trained 25+ reps directly
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
-- **Highest install retention in company** — built objection-handling framework adopted org-wide
-- #1 national ranking from Day One
+- **Highest sales & install retention in company** — built objection-handling framework adopted org-wide
+- Statistically #1 from Day One across multiple campaigns & cities
 - Multi-market deployment is the same shape as multi-warehouse robot deployment: standardize the playbook, train the local champions, instrument adoption
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present

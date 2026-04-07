@@ -10,11 +10,11 @@ I spent four years at Pulte Mortgage managing $63M in annual loan volume across 
 
 **The domain isn't a stretch — it's where I've lived.**
 
-At Pulte I worked daily with builders, title companies, appraisers, inspectors, and municipal officials. I'm currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data. Real estate operations is where I am right now and where I've been for years.
+At Pulte I worked daily with Branch operations, Mortgage Financial Advisors (MFAs), and customer realtors. I'm currently consulting for Gray Properties & Development on land acquisition strategy using tax lien data. Real estate operations is where I am right now and where I've been for years.
 
-**94% CSAT at $63M scale.**
+**90%+ CSAT at $63M scale.**
 
-Top 3 of 150 consultants at Pulte for four years. The win was building a teachable operating system so new consultants could plug in and perform. That's the same muscle CSM at PermitFlow needs: not just answering tickets, but making AI adoption stick across distributed teams of project managers who don't have time to learn another platform.
+Top 3 backlog at Pulte after year one. The win was building a teachable operating system so new Loan Officers could plug in and perform. That's the same muscle CSM at PermitFlow needs: not just answering tickets, but making AI adoption stick across distributed teams of project managers who don't have time to learn another platform.
 
 **I'm building with AI agents myself.**
 

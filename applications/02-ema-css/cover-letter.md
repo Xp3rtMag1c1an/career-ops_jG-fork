@@ -10,13 +10,13 @@ The "Universal AI Employee" thesis is one I've been building toward for two year
 
 **The architectural overlap is striking.**
 
-I'm the solo founder of writenode, a production AI Chrome extension I built without an engineering background. The architecture I designed is called SOURCE NODE — **a single consolidated agent** with a 5-mode cognitive pre-chain classifier called KAIROS that routes user intent through the right reasoning path. That's the same design philosophy as Ema: one agent, many roles, contextual routing. I built it because I believe a fragmented agent landscape doesn't scale — and clearly your team believes the same.
+I'm the solo founder of writenode, a production AI Chrome extension I built as solo founder with AI as my research & development partner. The architecture I designed is called SOURCE NODE — **a single consolidated agent** with a 5-mode cognitive pre-chain classifier called KAIROS that routes user intent through the right reasoning path. That's the same design philosophy as Ema: one agent, many roles, contextual routing. I built it because I believe a fragmented agent landscape doesn't scale — and clearly your team believes the same.
 
 **Customer outcomes at enterprise stakes.**
 
-For four years at Pulte Mortgage I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants. Mortgage lending is high-stakes, high-trust, and unforgiving. Customers need clarity, advocacy, and a partner who understands their problem before they finish describing it. The same applies when an enterprise deploys an AI employee — they need someone who can translate "why isn't this working?" into "here's the prompt, here's the data flow, here's the fix."
+For four years at Pulte Mortgage I managed a **$63M annual loan pipeline at 90%+ CSAT** — top 3 backlog. Mortgage lending is high-stakes, high-trust, and unforgiving. Customers need clarity, advocacy, and a partner who understands their problem before they finish describing it. The same applies when an enterprise deploys an AI employee — they need someone who can translate "why isn't this working?" into "here's the prompt, here's the data flow, here's the fix."
 
-Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1, trained 25+ reps, and authored a playbook **adopted by 400 reps across 40 markets**. **Highest install retention in the company.** I know the unglamorous mechanics of getting customers to adopt, expand, and become advocates.
+Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1, trained 25+ reps, and authored a playbook **adopted by 400 reps across 40 markets**. **Highest sales & install retention in the company.** I know the unglamorous mechanics of getting customers to adopt, expand, and become advocates.
 
 **The "lightweight beats comprehensive" instinct.**
 

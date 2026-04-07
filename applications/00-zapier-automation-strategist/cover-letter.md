@@ -10,7 +10,7 @@ I'm writing because the Automation Strategist role sits at the intersection of t
 
 **I build with the AI automation stack daily.**
 
-I'm the solo founder of writenode, a production AI Chrome extension I built without an engineering background. The architecture I designed is workflow orchestration applied to cognition — the same design pattern Zapier customers are increasingly asking for. I've been using Zapier hands-on for my own experimentation and integration work, and I know it as a practitioner, not as a passive observer. I'm eager to go from power user in training to deep expert.
+I'm the solo founder of writenode, a production AI Chrome extension I built as solo founder with AI as my research & development partner. The architecture I designed is workflow orchestration applied to cognition — the same design pattern Zapier customers are increasingly asking for. I've been using Zapier hands-on for my own experimentation and integration work, and I know it as a practitioner, not as a passive observer. I'm eager to go from power user in training to deep expert.
 
 **I now build with the AI orchestration stack daily.**
 
@@ -23,11 +23,11 @@ I'm the solo founder of writenode, a production AI Chrome extension. The archite
 
 I built it solo, without an engineering background, because I had a workflow problem I needed to solve. That self-teaching muscle is exactly what makes a great Automation Strategist: I can speak to technical and non-technical customers as a peer because I've been both.
 
-**94% CSAT at $63M scale.**
+**90%+ CSAT at $63M scale.**
 
-For four years at Pulte Mortgage I managed a **$63M annual loan pipeline serving 180 concurrent borrowers at 94% CSAT** — top 3 of 150 consultants. The win wasn't just retention — it was making the operating system teachable so new consultants could plug in and perform. That's exactly what governance and best practices look like inside an enterprise customer rolling out automation across teams.
+For four years at Pulte Mortgage I managed a **$63M annual loan pipeline serving 180 concurrent borrowers at 90%+ CSAT** — top 3 backlog. The win wasn't just retention — it was making the operating system teachable so new Loan Officers could plug in and perform. That's exactly what governance and best practices look like inside an enterprise customer rolling out automation across teams.
 
-Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1 and authored a playbook **adopted by 400 reps across 40 markets**. **Highest install retention in the company.** A national playbook IS a workflow specification at human scale — same muscle, different surface.
+Before that, I owned **Avenue Alive Direct**, where I scaled a national sales operation to $300K+ Year 1 and authored a playbook **adopted by 400 reps across 40 markets**. **Highest sales & install retention in the company.** A national playbook IS a workflow specification at human scale — same muscle, different surface.
 
 **The Harvest example.**
 

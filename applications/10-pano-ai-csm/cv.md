@@ -9,13 +9,13 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Strategic account operator with AI builder fluency. I managed a **$63M annual loan pipeline at 94% CSAT** at Pulte Mortgage as top 3 of 150 consultants, scaled Avenue Alive Direct across 40+ markets with the **highest install retention in the company,** and now build with the AI stack daily as the solo founder of writenode. I bring three things to a CSM role at Pano AI: native fluency in strategic account management at high stakes, proven retention metrics, and the empathy of an AI builder who speaks the technical stack.
+Strategic account operator with AI builder fluency. I managed a **$63M annual loan pipeline at 90%+ CSAT** at Pulte Mortgage as top 3 backlog, scaled Avenue Alive Direct across 40+ markets with the **highest sales & install retention in the company,** and now build with the AI stack daily as the solo founder of writenode. I bring three things to a CSM role at Pano AI: native fluency in strategic account management at high stakes, proven retention metrics, and the empathy of an AI builder who speaks the technical stack.
 
 ---
 
 ## Why Pano AI
 
-- **Strategic account management is what I've done at scale** — Pulte 94% CSAT, Avenue Alive highest retention
+- **Strategic account management is what I've done at scale** — Pulte 90%+ CSAT, Avenue Alive highest retention
 - **AI builder credentials** — writenode is live in production
 - **Mission-aligned** — wildfire detection is the right wedge for applied AI
 - **Growth-stage discipline** — I've operated in fast-scaling environments at Avenue Alive and writenode
@@ -25,7 +25,7 @@ Strategic account operator with AI builder fluency. I managed a **$63M annual lo
 ## Experience
 
 ### Founder & Developer — writenode · Dec 2024 – Present
-- Built production AI Chrome extension solo without engineering background
+- Built production AI Chrome extension as solo founder, directing AI tools — vibe-coded the prototype with Lovable, iterated 30+ builds, now in production on Render
 - **Architecture:** SOURCE NODE consolidated agent · KAIROS classifier · MCP integration
 - **Stack:** Cloudflare Workers, Vectorize, Gemini 2.5 Pro, Deepgram, AssemblyAI
 - YC Spring 2026 application · Hindsight/Vectorize partnership · Don Fotsch (former Apple) championing
@@ -34,10 +34,10 @@ Strategic account operator with AI builder fluency. I managed a **$63M annual lo
 
 **Strategic account management at $63M scale.**
 
-- **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
-- **Top 3 of 150 consultants** for four consecutive years
-- Built personal operating systems so new consultants could plug in and perform
-- Trained and mentored new consultants
+- **$63M loan pipeline · large concurrent pipeline · 90%+ CSAT**
+- **Top 3 backlog after year one**
+- Built personal operating systems so new Loan Officers could plug in and perform
+- Trained and mentored new Loan Officers
 - Fully remote execution with self-designed workstreams
 
 ### Owner & Managing Partner — Avenue Alive Direct (Verizon FiOS / DirecTV) · 2014 – 2018
@@ -46,8 +46,8 @@ Strategic account operator with AI builder fluency. I managed a **$63M annual lo
 
 - Scaled to **$300K+ Year 1 revenue** · trained 25+ reps directly
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
-- **Highest install retention in the company**
-- #1 national ranking from Day One until promotion to management
+- **Highest sales & install retention in the company**
+- Statistically #1 from Day One across multiple campaigns & cities
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present
 - AI brand systems · prompt engineering frameworks
