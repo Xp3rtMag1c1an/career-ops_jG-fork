@@ -6,11 +6,11 @@
 
 Dear Zapier Team,
 
-Your Automation Strategist role describes the work I've been doing for a decade — I just haven't had the title. I'm writing because I'm a longtime Zapier power user, an AI-native builder, and an operator who has driven adoption at enterprise stakes. I want to bring all three to your enterprise customers.
+I'm writing because the Automation Strategist role sits at the intersection of two tracks I've been building: AI-native product development and customer success at enterprise stakes. I've been experimenting with Zapier over the past year+ as part of my AI builder journey, and I want to go deeper at a company where automation and AI are the product.
 
-**I've been a Zapier power user for years.**
+**I build with the AI automation stack daily.**
 
-I've used Zapier to wire together sales ops at Avenue Alive, lending workflows at Pulte Mortgage, content automation at Harvest, and now internal workflows for writenode. I know where Zapier shines (the magic of someone non-technical shipping their first multi-step automation) and where enterprise customers get stuck (governance, error handling, scale, AI integration). I want to be the person who helps them through that.
+I'm the solo founder of writenode, a production AI Chrome extension I built without an engineering background. The architecture I designed is workflow orchestration applied to cognition — the same design pattern Zapier customers are increasingly asking for. I've been using Zapier hands-on for my own experimentation and integration work, and I know it as a practitioner, not as a passive observer. I'm eager to go from power user in training to deep expert.
 
 **I now build with the AI orchestration stack daily.**
 

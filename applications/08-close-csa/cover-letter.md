@@ -6,9 +6,9 @@
 
 Dear Close Team,
 
-I've spent a decade in sales-led organizations using CRMs as my daily tool — at Avenue Alive Direct (Verizon FiOS / DirecTV) and at Pulte Mortgage. I'm writing because I'd love to help Close customers win the way I won: by treating the CRM as the operating system, not the inbox.
+I've spent eight years in sales-led organizations — four at Avenue Alive Direct (Verizon FiOS / DirecTV) and four at Pulte Mortgage. I'm writing because I'd love to help Close customers win the way I won: by treating the CRM as the operating system, not the inbox.
 
-**I'm a sales operator at heart.**
+**I'm a sales operator at heart.** *[JOSH: verify specific CRM tools you used at Pulte / Avenue Alive before claiming CRM expertise]*
 
 At **Avenue Alive Direct**, I scaled to $300K+ Year 1, trained 25+ reps, and authored a national sales playbook adopted by **400 reps across 40 markets**. I was #1 nationally from Day One. The playbook worked because I built it from field-level execution data — what reps actually heard at the door — not from theory. **Highest install retention in the company.**
 
@@ -20,7 +20,7 @@ I'm the solo founder of writenode, a production AI Chrome extension. SOURCE NODE
 
 **Why Close:**
 
-1. **CRM is my native habitat** — a decade of using them daily as an operator
+1. **CRM is my native habitat** — eight years in sales-led orgs (Avenue Alive + Pulte)
 2. **Sales-led customer base** — I know what your customers need because I am one
 3. **Remote-first** matches how I already work
 4. **Customer Success Associate level fits where I am right now** — looking for an immediate-fit role with growth potential

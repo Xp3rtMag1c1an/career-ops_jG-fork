@@ -19,7 +19,7 @@
 ## Form Answers
 
 **"Why Close?"**
-> I've spent a decade in sales-led organizations using CRMs as my daily tool — at Avenue Alive Direct (Verizon FiOS/DirecTV, where I authored a national sales playbook adopted by 400 reps across 40 markets) and at Pulte Mortgage (where I managed a $63M loan pipeline at 94% CSAT). I'm a sales operator who knows what your customers need because I am one. I'm also a current AI builder — writenode is my production AI Chrome extension. I bring rare crossover: sales operator empathy + AI builder fluency.
+> I spent eight years in sales-led organizations — four at Avenue Alive Direct (Verizon FiOS/DirecTV, where I authored a national sales playbook adopted by 400 reps across 40 markets) and four at Pulte Mortgage (where I managed a $63M loan pipeline at 94% CSAT). I'm a sales operator who knows what your customers need because I am one. I'm also a current AI builder — writenode is my production AI Chrome extension. I bring rare crossover: sales operator empathy + AI builder fluency.
 
 **"Tell us about a customer success story."**
 > At Pulte, I had a borrower whose loan was at risk due to documentation issues across two W-2 employers and freelance income. Standard underwriting flagged it as too risky. I walked the borrower through exactly what each underwriter needed, coordinated with their CPA, restructured the documentation package, and got the loan approved. The borrower wrote me a thank-you letter the day they closed. The pattern: understand the actual problem, translate it into the system's language, advocate inside your own company. That's customer success in any context.

@@ -9,9 +9,9 @@
 ## Role Summary
 Customer Success role working with Zapier's enterprise plan customers. Strategic advisory + automation design + value-focused relationship expansion. Helps customers shape automation strategy, identify high-value use cases, drive AI-enabled transformation, and advise on automation governance.
 
-**Why this is your best fit so far:**
-- You've been a Zapier power user for years
+**Why this is a strong fit:**
 - You build with AI orchestration daily (writenode)
+- Hands-on Zapier experimenter (1+ year in your AI builder work — be accurate about this)
 - You have 94% CSAT at $63M scale (Pulte)
 - Remote US — fits Scottsdale
 - IC3/IC4 level = $100K-$160K likely (Zapier publishes pay bands)
@@ -33,7 +33,7 @@ Customer Success role working with Zapier's enterprise plan customers. Strategic
 ## Form Answers
 
 **"Why Zapier?"**
-> I've been a Zapier power user for a decade — first wiring sales ops at Avenue Alive, then lending workflows at Pulte Mortgage, now internal ops at writenode (my AI Chrome extension). I know where Zapier shines and where enterprise customers get stuck. I'm now an AI-native builder too: writenode uses Cloudflare Workers, Vectorize, Gemini, Deepgram, and MCP for production automation. I want to take a decade of operator experience plus my current AI builder fluency and apply both to Zapier's enterprise customers — help them not just deploy automation but actually adopt it.
+> I'm an AI-native builder and customer outcomes operator, and Zapier sits at the intersection of both. As the solo founder of writenode, I build with the modern AI orchestration stack daily — Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram. I've been hands-on with Zapier over the past year+ as part of my AI builder work, experimenting with integrations and automations for my own product workflows. I want to go from active experimenter to deep expert at a company where automation and AI are the product. On the operator side: 94% CSAT at $63M scale at Pulte Mortgage, top 3 of 150 consultants — I know how to make complex systems land with customers and stick long-term.
 
 **"Tell us about a time you helped a customer (or company) shape their automation strategy."**
 > At Harvest Investment Strategies, the team needed to reach younger demographics with AI-powered LinkedIn content automation, but had no AI experience. The "right" technical answer was a 30-prompt framework with conditional branching. Instead I built a 3-prompt system: ideation, drafting, voice consistency. The team adopted it the first week, founder voice stayed intact, and we had a measurable funnel impact within 30 days. The lesson: complexity is the enemy of adoption. Great automation strategy starts with what the customer will actually use on Monday morning, not what's technically optimal.

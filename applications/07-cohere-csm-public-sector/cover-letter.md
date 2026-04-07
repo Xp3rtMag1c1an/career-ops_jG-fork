@@ -21,7 +21,7 @@ I taught myself the entire stack from scratch because I had a problem worth ship
 
 **Regulated-industry discipline.**
 
-For four years at **Pulte Mortgage** I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants. Mortgage lending is federally regulated (CFPB, RESPA, TRID) — every interaction is auditable, every disclosure is on a clock, every error has compliance implications. That's exactly the discipline US Public Sector customers expect from their vendors.
+For four years at **Pulte Mortgage** I managed a **$63M annual loan pipeline at 94% CSAT** — top 3 of 150 consultants. Mortgage lending is a federally regulated environment — every interaction is auditable, every disclosure is on a clock, and error tolerance is low. That's exactly the discipline US Public Sector customers expect from their vendors.
 
 **94% CSAT at $63M scale.**
 

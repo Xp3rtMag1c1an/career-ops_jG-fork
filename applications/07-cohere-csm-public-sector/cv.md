@@ -38,7 +38,7 @@ Mission-driven operator with rare crossover: AI builder fluency and proven custo
 
 - **$63M annual loan volume · 180-loan concurrent pipeline · 94% CSAT**
 - **Top 3 of 150 consultants** for four consecutive years
-- Worked daily within CFPB, RESPA, TRID, and other federal compliance frameworks
+- Operated inside a federally regulated industry (CFPB/RESPA/TRID compliance environment)
 - Built personal operating systems so new consultants could plug in and perform
 - Trained and mentored new consultants — making the system teachable was the unlock
 - Fully remote execution

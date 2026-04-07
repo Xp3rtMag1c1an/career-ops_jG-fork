@@ -9,15 +9,16 @@ linkedin.com/in/josh-groves · writenode.app
 
 ## Summary
 
-Decade-long Zapier power user turned AI-native builder. I've automated my way through every job I've ever had — from a $63M loan pipeline at Pulte to a 40-market sales operation at Avenue Alive — and I now build with the AI orchestration stack daily as the solo founder of writenode (Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram). I bring three rare things to an Automation Strategist role: peer fluency in the automation/AI stack, **94% CSAT at $63M scale**, and the empathy of a builder who knows what enterprise customers actually need to make automation stick.
+AI-native builder and customer operator with the rare combination of practitioner-level fluency in modern automation tooling and proven customer outcomes at enterprise stakes. As the solo founder of writenode I built a production AI Chrome extension on a modern orchestration stack (Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram). As a Senior Loan Consultant at Pulte Mortgage I managed a **$63M annual pipeline at 94% CSAT** as top 3 of 150 consultants. I bring three things to an Automation Strategist role: peer fluency in the AI/automation stack, **94% CSAT at enterprise scale**, and the builder's instinct for what makes automation stick with non-technical teams.
 
 ---
 
 ## Why Zapier
 
-- **I'm a Zapier power user from the early days.** I've used Zapier to wire together sales ops, lending workflows, content pipelines, and now my own AI product's internal ops. I know where Zapier shines and where customers get stuck.
-- **I think in pipelines literally.** writenode is capture → structure → retrieval → action. That's Zapier at the cognitive layer.
-- **94% CSAT at enterprise stakes.** Mortgage lending taught me how to make complex systems land with non-technical customers. Automation governance is the same problem in a different jersey.
+- **AI-native builder** — writenode uses Cloudflare Workers, Vectorize, MCP, Gemini, Deepgram in production
+- **Hands-on Zapier experimenter** — using it actively in my current AI builder work
+- **I think in pipelines literally** — writenode is capture → structure → retrieval → action
+- **94% CSAT at enterprise stakes** — Mortgage lending taught me how to make complex systems land with non-technical customers
 
 ---
 

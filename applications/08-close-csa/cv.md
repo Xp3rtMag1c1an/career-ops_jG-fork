@@ -16,7 +16,7 @@ Sales operator turned AI builder. I scaled Avenue Alive Direct to **$300K+ Y1 wi
 ## Why Close
 
 - **I'm a sales operator at heart** — Avenue Alive Direct, Pulte Mortgage = a decade in sales-led organizations
-- **CRM is operator territory** — I've used CRMs daily across multiple roles and know where they break
+- **Sales-led operator** — eight years in high-touch sales roles across Avenue Alive and Pulte
 - **AI builder credentials** — writenode is live in production with peer-level technical fluency
 - **Remote-first** matches how Close already operates
 
@@ -48,7 +48,7 @@ Sales operator turned AI builder. I scaled Avenue Alive Direct to **$300K+ Y1 wi
 - **Authored national sales playbook adopted by 400 reps across 40 markets**
 - **Highest install retention in the company** — built objection-handling framework adopted org-wide
 - #1 national ranking from Day One until promotion to management
-- Lived inside the sales/CRM/lead-management workflow daily
+- Operated inside the sales/lead-management workflow day-to-day
 
 ### AI Strategy Consultant — Harvest Investment Strategies · Sep 2025 – Present
 - Built AI brand automation systems with prompt engineering frameworks
